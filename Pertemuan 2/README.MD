@@ -1,5 +1,5 @@
 # Rule Based AI
 
 By:
-+ Nama: Sasuke Uchiha
++ Nama: Allan Paturahman
 + NIM: 2221100010
