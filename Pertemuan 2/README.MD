@@ -2,4 +2,4 @@
 
 By:
 + Nama: Allan Paturahman
-+ NIM: 2221100010
++ NIM: 201440055
